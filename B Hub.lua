@@ -376,7 +376,7 @@ end)
 })
 
 local Players = Window:MakeTab({
-	Name = "Tab 1",
+	Name = "Players",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
