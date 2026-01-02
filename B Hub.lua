@@ -16,7 +16,7 @@ local Sobre = Window:MakeTab({
 })
 
 
-Tab:AddParagraph("Sobre","Esse Script é um microScript, MicroScript?... microScript é um tipo de nome que eu desenvolvi para scripts dentro de script... funciona assim: um script comum tem toglles e vários códigos, já os microScript tem scripts prontos dentro de um próprio script e também os microScript tem apenas botões e tabs.")
+Sobre:AddParagraph("Sobre","Esse Script é um microScript, MicroScript?... microScript é um tipo de nome que eu desenvolvi para scripts dentro de script... funciona assim: um script comum tem toglles e vários códigos, já os microScript tem scripts prontos dentro de um próprio script e também os microScript tem apenas botões e tabs.")
 
 
 local Main = Window:MakeTab({
