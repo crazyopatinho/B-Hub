@@ -14,4 +14,5 @@ nenhum arquivo está ofuscado!!
 **Instalar em Executores Externos Aqui⬇️⬇️
 ```lua
 loadstring(game:HttpGet((`https://raw.githubusercontent.com/crazyopatinho/B-Hub/refs/heads/main/B%20Hub.lua`)()
-```**
+```
+**
