@@ -1,4 +1,5 @@
 This is not an exploit, it's a script I created that works both in Roblox Studio and in external executors. Use wisely.
+https://github.com/user-attachments/assets/e9444cd4-1bc5-47b3-9c25-b72115358521
 
 ola eu criei um script universal para Roblox 
 nesse script também terá outros scripts que são todos em um só 
