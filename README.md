@@ -10,6 +10,9 @@ B Hub.lua
 girador_furacao.lua
 Congela.lua
 
+
+<img width="500" height="1748" alt="Image" src="https://github.com/user-attachments/assets/7f4e7b51-7a8d-4714-b011-a794c4f0b105" />
+
 nenhum arquivo está ofuscado!!
 **Instalar em Executores Externos Aqui⬇️⬇️**
 ```lua
